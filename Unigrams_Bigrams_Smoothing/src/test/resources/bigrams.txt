@@ -1,0 +1,578 @@
+[
+    {
+        "entry": ".... ....",
+        "probability": 0
+    },
+    {
+        "entry": ".... are",
+        "probability": 0
+    },
+    {
+        "entry": ".... best",
+        "probability": 0
+    },
+    {
+        "entry": ".... big",
+        "probability": 0
+    },
+    {
+        "entry": ".... Big",
+        "probability": 0
+    },
+    {
+        "entry": ".... I",
+        "probability": 0
+    },
+    {
+        "entry": ".... ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": ".... ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": ".... It's",
+        "probability": 0
+    },
+    {
+        "entry": ".... like",
+        "probability": 0
+    },
+    {
+        "entry": ".... the",
+        "probability": 0
+    },
+    {
+        "entry": ".... thing.",
+        "probability": 0
+    },
+    {
+        "entry": "are ....",
+        "probability": 0
+    },
+    {
+        "entry": "are are",
+        "probability": 0
+    },
+    {
+        "entry": "are best",
+        "probability": 0
+    },
+    {
+        "entry": "are big",
+        "probability": 0
+    },
+    {
+        "entry": "are Big",
+        "probability": 0
+    },
+    {
+        "entry": "are I",
+        "probability": 0
+    },
+    {
+        "entry": "are ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "are ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "are It's",
+        "probability": 0
+    },
+    {
+        "entry": "are like",
+        "probability": 0
+    },
+    {
+        "entry": "are the",
+        "probability": 1
+    },
+    {
+        "entry": "are thing.",
+        "probability": 0
+    },
+    {
+        "entry": "best ....",
+        "probability": 0
+    },
+    {
+        "entry": "best are",
+        "probability": 0
+    },
+    {
+        "entry": "best best",
+        "probability": 0
+    },
+    {
+        "entry": "best big",
+        "probability": 0
+    },
+    {
+        "entry": "best Big",
+        "probability": 0
+    },
+    {
+        "entry": "best I",
+        "probability": 0
+    },
+    {
+        "entry": "best ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "best ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "best It's",
+        "probability": 0
+    },
+    {
+        "entry": "best like",
+        "probability": 0
+    },
+    {
+        "entry": "best the",
+        "probability": 0
+    },
+    {
+        "entry": "best thing.",
+        "probability": 1
+    },
+    {
+        "entry": "big ....",
+        "probability": 0
+    },
+    {
+        "entry": "Big ....",
+        "probability": 0
+    },
+    {
+        "entry": "big are",
+        "probability": 0
+    },
+    {
+        "entry": "Big are",
+        "probability": 0
+    },
+    {
+        "entry": "big best",
+        "probability": 0
+    },
+    {
+        "entry": "Big best",
+        "probability": 0
+    },
+    {
+        "entry": "big big",
+        "probability": 0.33333
+    },
+    {
+        "entry": "big Big",
+        "probability": 0
+    },
+    {
+        "entry": "Big big",
+        "probability": 1
+    },
+    {
+        "entry": "Big Big",
+        "probability": 0
+    },
+    {
+        "entry": "big I",
+        "probability": 0
+    },
+    {
+        "entry": "Big I",
+        "probability": 0
+    },
+    {
+        "entry": "big ice-creams",
+        "probability": 0.33333
+    },
+    {
+        "entry": "Big ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "big ice-creams.",
+        "probability": 0.33333
+    },
+    {
+        "entry": "Big ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "big It's",
+        "probability": 0
+    },
+    {
+        "entry": "Big It's",
+        "probability": 0
+    },
+    {
+        "entry": "big like",
+        "probability": 0
+    },
+    {
+        "entry": "Big like",
+        "probability": 0
+    },
+    {
+        "entry": "big the",
+        "probability": 0
+    },
+    {
+        "entry": "Big the",
+        "probability": 0
+    },
+    {
+        "entry": "big thing.",
+        "probability": 0
+    },
+    {
+        "entry": "Big thing.",
+        "probability": 0
+    },
+    {
+        "entry": "I ....",
+        "probability": 0
+    },
+    {
+        "entry": "I are",
+        "probability": 0
+    },
+    {
+        "entry": "I best",
+        "probability": 0
+    },
+    {
+        "entry": "I big",
+        "probability": 0
+    },
+    {
+        "entry": "I Big",
+        "probability": 0
+    },
+    {
+        "entry": "I I",
+        "probability": 0
+    },
+    {
+        "entry": "I ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "I ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "I It's",
+        "probability": 0
+    },
+    {
+        "entry": "I like",
+        "probability": 1
+    },
+    {
+        "entry": "I the",
+        "probability": 0
+    },
+    {
+        "entry": "I thing.",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams ....",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams are",
+        "probability": 1
+    },
+    {
+        "entry": "ice-creams best",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams big",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams Big",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams I",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams It's",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams like",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams the",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams thing.",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. ....",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. are",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. best",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. big",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. Big",
+        "probability": 1
+    },
+    {
+        "entry": "ice-creams. I",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. It's",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. like",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. the",
+        "probability": 0
+    },
+    {
+        "entry": "ice-creams. thing.",
+        "probability": 0
+    },
+    {
+        "entry": "It's ....",
+        "probability": 1
+    },
+    {
+        "entry": "It's are",
+        "probability": 0
+    },
+    {
+        "entry": "It's best",
+        "probability": 0
+    },
+    {
+        "entry": "It's big",
+        "probability": 0
+    },
+    {
+        "entry": "It's Big",
+        "probability": 0
+    },
+    {
+        "entry": "It's I",
+        "probability": 0
+    },
+    {
+        "entry": "It's ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "It's ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "It's It's",
+        "probability": 0
+    },
+    {
+        "entry": "It's like",
+        "probability": 0
+    },
+    {
+        "entry": "It's the",
+        "probability": 0
+    },
+    {
+        "entry": "It's thing.",
+        "probability": 0
+    },
+    {
+        "entry": "like ....",
+        "probability": 0
+    },
+    {
+        "entry": "like are",
+        "probability": 0
+    },
+    {
+        "entry": "like best",
+        "probability": 0
+    },
+    {
+        "entry": "like big",
+        "probability": 1
+    },
+    {
+        "entry": "like Big",
+        "probability": 0
+    },
+    {
+        "entry": "like I",
+        "probability": 0
+    },
+    {
+        "entry": "like ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "like ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "like It's",
+        "probability": 0
+    },
+    {
+        "entry": "like like",
+        "probability": 0
+    },
+    {
+        "entry": "like the",
+        "probability": 0
+    },
+    {
+        "entry": "like thing.",
+        "probability": 0
+    },
+    {
+        "entry": "the ....",
+        "probability": 0
+    },
+    {
+        "entry": "the are",
+        "probability": 0
+    },
+    {
+        "entry": "the best",
+        "probability": 1
+    },
+    {
+        "entry": "the big",
+        "probability": 0
+    },
+    {
+        "entry": "the Big",
+        "probability": 0
+    },
+    {
+        "entry": "the I",
+        "probability": 0
+    },
+    {
+        "entry": "the ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "the ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "the It's",
+        "probability": 0
+    },
+    {
+        "entry": "the like",
+        "probability": 0
+    },
+    {
+        "entry": "the the",
+        "probability": 0
+    },
+    {
+        "entry": "the thing.",
+        "probability": 0
+    },
+    {
+        "entry": "thing. ....",
+        "probability": 0
+    },
+    {
+        "entry": "thing. are",
+        "probability": 0
+    },
+    {
+        "entry": "thing. best",
+        "probability": 0
+    },
+    {
+        "entry": "thing. big",
+        "probability": 0
+    },
+    {
+        "entry": "thing. Big",
+        "probability": 0
+    },
+    {
+        "entry": "thing. I",
+        "probability": 0
+    },
+    {
+        "entry": "thing. ice-creams",
+        "probability": 0
+    },
+    {
+        "entry": "thing. ice-creams.",
+        "probability": 0
+    },
+    {
+        "entry": "thing. It's",
+        "probability": 1
+    },
+    {
+        "entry": "thing. like",
+        "probability": 0
+    },
+    {
+        "entry": "thing. the",
+        "probability": 0
+    },
+    {
+        "entry": "thing. thing.",
+        "probability": 0
+    }
+]
